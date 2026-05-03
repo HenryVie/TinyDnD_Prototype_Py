@@ -1,3 +1,7 @@
+# DnD Prototype CLI
+# Author: Nguyễn Đình Nam
+# Description: A command-line prototype version of a tiny DnD mechanism.
+
 import random
 
 # Character stats
